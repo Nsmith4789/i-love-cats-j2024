@@ -1,6 +1,6 @@
 
 function handleClick() {
-  alert("meow!");
+  alert("YUM");
 }
 
 picture1.onclick = handleClick;
