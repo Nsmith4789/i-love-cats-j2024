@@ -1,4 +1,4 @@
-# I Love Cats
+# I Love Food
 
 ## About
 
@@ -19,7 +19,7 @@ This is a website about cats. It has a picture of a cat using an img tag. It als
 
 ## Contact
 
-Author: Robert McCreary robert.mccreary@codex.academy
+Author: Nicholas smith khs
 
 ## Acknowledgements
 
