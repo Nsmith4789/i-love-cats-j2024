@@ -19,7 +19,7 @@ This is a website about cats. It has a picture of a cat using an img tag. It als
 
 ## Contact
 
-Author: Nicholas smith khs
+Author: Nicholas smith khsde4789@gmail.com
 
 ## Acknowledgements
 
