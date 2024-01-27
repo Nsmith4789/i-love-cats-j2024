@@ -15,7 +15,7 @@ This is a website about food , food is a great way to bridge cultural gaps and e
 - [x] Headers (h1, h2)
 - [x] CSS background
 - [x] JavaScript alert
-- [ ] Three changes with commits
+- [x] Three changes with commits
 
 ## Contact
 
