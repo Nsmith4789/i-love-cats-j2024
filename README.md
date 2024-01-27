@@ -12,9 +12,9 @@ This is a website about food , food is a great way to bridge cultural gaps and e
 
 ## Roadmap
 
-- [x] Headers (h1, h2)
-- [x] CSS background
-- [x] JavaScript alert
+- [x] Headers (h1, h2) changed header to i love food 
+- [x] CSS background chnaged color to royal blue
+- [x] JavaScript alert changed alert to YUM
 - [x] Three changes with commits
 
 ## Contact
