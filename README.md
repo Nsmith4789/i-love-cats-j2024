@@ -2,7 +2,7 @@
 
 ## About
 
-This is a website about cats. It has a picture of a cat using an img tag. It also has a CSS for style and JavaScript to add an alert on click.
+This is a website about food , food is a great way to bridge cultural gaps and experience different culturs.
 
 ## Built With
 
